@@ -1,27 +1,22 @@
 <h1 align="center">Hi 👋, I'm Bek1me</h1>
 <h3 align="center">A python backend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bek1me&label=Profile%20views&color=0e75b6&style=flat" alt="mirtazayev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bek1me&label=Profile%20views&color=0e75b6&style=flat" alt="bek1me" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirtazayev" alt="mirtazayev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bek1me" alt="bek1me" /></a> </p>
 
 
-- 🔭 I’m currently working on [GreenShop](https://github.com/mirtazayev/FastApi-GreenShop.git)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Flask and FastAPI**
 
-- 🤝 My last freelance project [Tripmeetup](https://tripmeetup.com/)
+- 🤝 My last freelance project 
 
 - 📫 How to reach me **dabdumutalibov102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mirtazayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirtazayev" height="30" width="40" /></a>
-<a href="https://fb.com/mirtazayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirtazayev" height="30" width="40" /></a>
-<a href="https://instagram.com/mirtazayev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirtazayev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mirtazayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirtazayev" height="30" width="40" /></a>
-<a href="https://discord.gg/mirtazayev#6011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mirtazayev#6011" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/bek1me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirtazayev" height="30" width="40" /></a>
 
 ## 🧮 Algorithms
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/mirtazayev)
