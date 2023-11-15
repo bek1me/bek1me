@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bek1me&" alt="bek1me" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bek1me&show_icons=true&locale=en&layout=compact" alt="bek1me" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=bek1me&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/c4155c412185e9242e2a262532c8e758cdddfc341f1233a460990b6b79c98bdd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d62656b316d652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)https://camo.githubusercontent.com/c4155c412185e9242e2a262532c8e758cdddfc341f1233a460990b6b79c98bdd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d62656b316d652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="bek1me" /></p>
 <br>
